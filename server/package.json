@@ -1,5 +1,5 @@
 {
-  "name": "serverless-aws-react-saas-back-end",
+  "name": "@veynzer/server",
   "devDependencies": {
     "@types/node": "^14"
   },
